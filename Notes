@@ -1,0 +1,10 @@
+The codes for all the four problems can be identified by the name
+
+Example
+qmFinal1.py-> questionmaperFinalquestion1.py
+and the reducer is
+qrFinal1.py->questionreducerFinalquestion1.py
+
+mapper Code for question3 has two files
+qmFinal3 -> #nodes with only questions
+qmFinal3new #nodes with questions , answers and comments
